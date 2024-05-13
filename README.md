@@ -1,1 +1,9 @@
-# Proc-habla
+COLEGIO PROVINCIAL: POLITÉCNICO "MALVINAS ARGENTINAS"
+
+CARRERA : TÉCNICO SUPERIOR EN CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+
+CÁTEDRA : PROCESAMIENTO DEL HABLA (NLP)
+
+CONTENIDO: Notebook prácticas correspondientes a cada clase.
+
+![image](https://github.com/GusJL/Politecnico-Proc-habla/assets/166078549/6b79e4a4-6ccb-4697-b253-e7d3157ddaa5)
